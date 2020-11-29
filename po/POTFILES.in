@@ -1,0 +1,23 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+capplet/gsm-app-dialog.c
+capplet/gsm-properties-dialog.c
+capplet/gsp-app.c
+capplet/main.c
+[type: gettext/gsettings]data/org.gde2.session.gschema.xml.in
+data/gde2.desktop.in
+data/gde2-wm.desktop.in.in
+[type: gettext/glade]data/gsm-inhibit-dialog.ui
+data/gde2-session-properties.desktop.in.in
+[type: gettext/glade]data/session-properties.ui
+egg/eggdesktopfile.c
+egg/eggsmclient.c
+gde2-session/gsm-inhibit-dialog.c
+gde2-session/gsm-logout-dialog.c
+gde2-session/gsm-manager.c
+gde2-session/gsm-xsmp-client.c
+gde2-session/gsm-xsmp-server.c
+gde2-session/gsm-util.c
+gde2-session/main.c
+tools/gde2-session-save.c
+tools/gde2-session-inhibit.c

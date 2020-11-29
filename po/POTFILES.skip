@@ -1,0 +1,7 @@
+# List of source files containing translatable strings that should not be
+# translated.
+# Please keep this file sorted alphabetically.
+data/org.gde2.session.gschema.xml.in
+data/gde2-session-properties.desktop.in
+data/gde2-session.schemas.in
+data/gde2-wm.desktop.in

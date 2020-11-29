@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+_Name=Window Manager
+Exec=gde2-wm
+Keywords=GDE2;window;manager;launch;MDM;
+NoDisplay=true
+X-GDE2-Autostart-Phase=WindowManager
+X-GDE2-Provides=windowmanager
+X-GDE2-Autostart-Notify=true
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=gde2-session
+X-GDE2-Bugzilla-Component=general
+X-GDE2-Bugzilla-Version=@VERSION@

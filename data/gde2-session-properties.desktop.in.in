@@ -1,0 +1,15 @@
+[Desktop Entry]
+_Name=Startup Applications
+_Comment=Choose what applications to start when you log in
+Exec=gde2-session-properties
+Icon=gde2-session-properties
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Settings;X-GDE2-PersonalSettings;
+Keywords=GDE2;session;properties;applications;login;start;
+OnlyShowIn=GDE2;
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=gde2-session
+X-GDE2-Bugzilla-Component=gde2-session-properties
+X-GDE2-Bugzilla-Version=@VERSION@

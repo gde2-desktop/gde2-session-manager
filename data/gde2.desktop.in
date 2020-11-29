@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=GDE2
+_Comment=This session logs you into GDE2
+Exec=gde2-session
+TryExec=gde2-session
+Icon=
+Type=Application
+DesktopNames=GDE2
+Keywords=launch;GDE2;desktop;session;
+
