@@ -318,7 +318,7 @@ scale_pixbuf (GdkPixbuf *pixbuf,
 #ifdef HAVE_XRENDER
 
 #if !GTK_CHECK_VERSION (3, 0, 0)
-/* adapted from marco */
+/* adapted from finestra */
 static GdkColormap*
 get_cmap (GdkPixmap *pixmap)
 {
